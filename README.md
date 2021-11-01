@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @Autoafterdarkphx
-- 👀 I’m interested in developing an app for business
-- 🌱 I’m currently learning everything. I'm totally new to coding. 
-- 💞️ I’m looking to collaborate on anything related to my app development
-- 📫 You can reach me via email at my website https://www.autoafterdark.com
-
-<!---
-Autoafterdarkphx/Autoafterdarkphx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Starting out here with my app. I'm totally new to coding and not even sure if this is going to matter with it being my first attempt
