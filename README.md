@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Autoafterdarkphx
-- 👀 I’m interested in developing an app for business
-- 🌱 I’m currently learning everything. I'm totally new to coding. 
-- 💞️ I’m looking to collaborate on anything related to my app development
-- 📫 You can reach me via email at my website https://www.autoafterdark.com
+- 👋 Hello and Welcome to Auto After Dark
+- 👀 Look for products and book appointments online for auto repair needs
+- 🌱 I can order parts and other consumer products and ship them directly to your home or office 
+- 💞️ I can also set up appointments for any services you request.
+- 📫 You can request more information or contact us by using our website https://www.autoafterdark.com
 
 <<<<<<< Updated upstream
 <!---
