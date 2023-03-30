@@ -1,3 +1,0 @@
-# XLibraryCode
-
-Merchant application
